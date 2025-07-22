@@ -38,6 +38,14 @@ UIPtv is a beautifully designed Flutter movie streaming application that offers 
 <img width="3248" height="1500" alt="Group 125-2" src="https://github.com/user-attachments/assets/3fcd4f66-ebe4-46d0-8f5c-e1c0fc8ad88e" />
 
 <img width="1500" height="4608" alt="home" src="https://github.com/user-attachments/assets/57307a13-6db9-41ca-9dfe-e1bbd23a3441" />
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/UIPtv.git
+cd UIPtv
+flutter pub get
+flutter run
 ##Directory structure:
 └── hridoydhar1-scaleup.git/
     ├── README.md
@@ -213,10 +221,3 @@ UIPtv is a beautifully designed Flutter movie streaming application that offers 
             ├── win32_window.cpp
             └── win32_window.h
 
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/yourusername/UIPtv.git
-cd UIPtv
-flutter pub get
-flutter run
